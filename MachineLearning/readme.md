@@ -49,4 +49,8 @@ Performance testing| model error testing, calibration score, simple model compar
 
    https://www.analyticsvidhya.com/blog/2021/10/mlops-and-the-importance-of-data-drift-detection/
 
+   Links in
+   https://www.kaggle.com/code/abhishekmungoli/data-drift/notebook
+   
+
 
